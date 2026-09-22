@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.vite/
+tmp/
+.DS_Store
+*.local
+npm-debug.log*
+
+# Материалы за пределами опубликованных этапов 2–4 сохраняются локально.
+src/
+scripts/
+index.html
+package.json
+pnpm-lock.yaml
+eslint.config.js
+stylelint.config.js
+.prettierrc.json
+.prettierignore
